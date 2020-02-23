@@ -1,35 +1,72 @@
-html, body{
+html{
     width: 100%;
     height: 100%;
 }
-
-
-
-
-
-
-
-
-
-
-
-.parent-box{
-    height: 729.49px; 
-    width: 1286px;
-    border: 4px solid #070068;
+body{
+    width: 95%;
+    height: 95%;
+    padding: 2.5%;
+}
+.firstbox{
+    width: 95%;
+    height: 95%;
+    padding: 2.5%;
     background-color: #042F5F;
+    border: 4px solid #2267B5;
+}
+.secondbox{
+    width: 95%;
+    height: 90%;
+    background-color: #FCFCFC;
+    border: 4px solid #2267B5;
+    padding: 2.5%;
 }
 .box1{
-    height: 80%;
-    width: 80%;
-    border: 4px solid #0071BC;
-    background-color: white;
-    margin: 2% auto;
+    width: 95%;
+    height: 30%;
+    background-color:#304A67;
+    margin-bottom: 5%;
+    padding: 2.5%;
 }
 .box2{
-    height: 80%;
-    width: 80%;
-    border: 4px solid ##2267B5;
-    background-color: #304A67;
-    margin: 2% auto;
+    width: 100%;
+    height: 50%;
+    background-color:#304A67;
+}
+.whitebox1{
+    width: 18%;
+    height: 90%;
+    background-color: azure;
+    border: 4px solid #2267B5;
+    margin: 0 2.5%;
+    float: left;
+    
+}
+.whitebox2{
+    width: 18%;
+    height: 90%;
+    background-color: azure;
+    border: 4px solid #2267B5;
+    margin: 0 2.5%;
+    float: right;
+    
+}
+.whitebox3{
+    width: 18%;
+    height: 90%;
+    background-color: azure;
+    border: 4px solid #2267B5;
+    margin: 0 2.5%;
+    float: right;
+}
+.whitebox4{
+    width: 18%;
+    height: 90%;
+    background-color: azure;
+    border: 4px solid #2267B5;
+    margin: 0 2.5%;
+    float: left;
+}
+.clear{
+    clear: both;
 }
