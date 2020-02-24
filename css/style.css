@@ -36,37 +36,84 @@ body{
 .whitebox1{
     width: 18%;
     height: 90%;
-    background-color: azure;
-    border: 4px solid #2267B5;
-    margin: 0 2.5%;
+    background-color: white;
+    border: 1px solid #2267B5;
+    margin: 0 2%;
     float: left;
+    padding: 1%;
+    
     
 }
 .whitebox2{
     width: 18%;
     height: 90%;
-    background-color: azure;
-    border: 4px solid #2267B5;
-    margin: 0 2.5%;
+    background-color: white;
+    border: 1px solid #2267B5;
+    margin: 0 2%;
     float: right;
-    
+    padding: 1%;
 }
 .whitebox3{
     width: 18%;
     height: 90%;
-    background-color: azure;
-    border: 4px solid #2267B5;
-    margin: 0 2.5%;
+    background-color: white;
+    border: 1px solid #2267B5;
+    margin: 0 2%;
     float: right;
+    padding: 1%;
 }
 .whitebox4{
     width: 18%;
     height: 90%;
-    background-color: azure;
-    border: 4px solid #2267B5;
-    margin: 0 2.5%;
+    background-color: white;
+    border: 1px solid #2267B5;
+    margin: 0 2%;
     float: left;
+    padding: 1%;
 }
 .clear{
     clear: both;
+}
+.bluebox1{
+    width: 90%;
+    height: 90%;
+    background-color: #75B3F9;
+    border: 1px solid #2267B5;
+    margin: 0 3%;
+}
+
+.bluebox2{
+    width: 90%;
+    height: 90%;
+    background-color: #75B3F9;
+    border: 1px solid #2267B5;
+    margin: 0 3%;
+}
+.bluebox3{
+    width: 90%;
+    height: 90%;
+    background-color: #75B3F9;
+    border: 1px solid  #2267B5;
+    margin: 0 3%;
+}
+.bluebox4{
+    width: 90%;
+    height: 90%;
+    background-color: #75B3F9;
+    border: 1px solid #2267B5;
+    margin: 0 3%;
+}
+.text{
+    text-align: center;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 20%;
+
+}
+.text-box2{
+    color: white;
+    font-family: myriadpro;
+    font-size: 51px;
+    text-align: center;
+    padding: 10%;
 }
